@@ -1,6 +1,6 @@
 ---
 layout: default
-title: lauri.lehmijoki.net
+title: lauri lehmijoki
 ---
 ## Work
 
