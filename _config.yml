@@ -1,2 +1,3 @@
 auto: true
 exclude: bootstrap
+permalink: none

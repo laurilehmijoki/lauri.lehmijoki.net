@@ -20,6 +20,13 @@ Coding at [Efecte](http://www.efecte.fi). \(From mid-April, I'll be coding and c
 
 Coding, yoga, literature, politics, economics, natural languages, Star Trek. Nerding in general.
 
+## Articles
+{% for post in site.posts %}
+
+* [{{post.title}}]({{post.url}})
+
+{% endfor %}
+
 ## Contact
 
 lauri.lehmijoki@iki.fi
