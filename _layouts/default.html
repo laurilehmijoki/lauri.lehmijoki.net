@@ -10,15 +10,20 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/bootstrap-responsive.css" rel="stylesheet">
     <style type="text/css">
-      body {
-        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
-      }
       .site-logo {
-        max-height: 30px;
+        max-height: 33px;
         display: inline;
         margin: 3px;
         border-radius: 5px;
-        margin-top: 4px;
+        margin-top: 3px;
+      }
+
+      .beef {
+        padding: 60px 30px 30px;
+        background-color: white;
+      }
+      body {
+        background-color: #E7E7E7;
       }
     </style>
 
@@ -37,7 +42,7 @@
       </div>
     </div>
 
-    <div class="container">
+    <div class="container beef">
       {{ content }}
     </div> 
   </body>
