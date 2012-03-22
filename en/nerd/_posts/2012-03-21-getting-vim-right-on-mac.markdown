@@ -11,7 +11,7 @@ When you have VIM with Ruby support, you can
 * Use [Command-T](https://wincent.com/products/command-t), the superb file navigation plugin 
 * Enjoy Ruby syntax awareness (syntax coloring, proper indentation of code)
 
-The information in this article is also applicable to other \*nix systems than OS X. The compilation and Command-T installation steps are not specific to Mac.
+The information in this article is also applicable to other \*nix systems than OS X. The compilation and Command-T installation steps are not specific to Mac, but you might need additional compilation parameters on other systems.
 
 Don't get too seriously the "right" in the title; the purpose of this article is to document how to compile VIM and inspire VIM users to try out Command-T.
 
