@@ -7,7 +7,7 @@ published: true
 
 #### Jekyll as an example of a tool that lets you concentrate on the problem and skip irrelevant details
 
-[Jekyll](https://github.com/mojombo/jekyll), the blog and web site tool for hackers, is an excellent tool for what its made for. Jekyll allows you to set up a web site in a few minutes. For example, if you would like to run this site on your computer, you could do it in three lines, assuming you have Ruby and RubyGems installed:
+Jekyll, the blog and web site tool for hackers, is an excellent tool for what its made for. Jekyll allows you to set up a web site in a few minutes. For example, if you would like to run this site on your computer, you could do it in three lines, assuming you have Ruby and RubyGems installed:
 
 `sudo gem install jekyll`
 
@@ -64,4 +64,4 @@ Jekyll exhibits some **general properties of right tools for the right job**:
 
   An active and enthusiastic user community proves that there's something valuable in a tool.
 
-  Jekyll has plenty of [users](https://github.com/mojombo/jekyll/wiki/sites), and [GitHub pages](http://pages.github.com) support it. Even [Werner uses it](http://www.allthingsdistributed.com/2011/08/Jekyll-amazon-s3.html).
+  Jekyll has plenty of users, and GitHub pages support it. Even [Werner uses it](http://www.allthingsdistributed.com/2011/08/Jekyll-amazon-s3.html).
