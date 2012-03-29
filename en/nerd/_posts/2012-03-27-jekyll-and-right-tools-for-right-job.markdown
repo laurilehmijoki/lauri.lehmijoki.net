@@ -64,4 +64,4 @@ Jekyll exhibits some **general properties of right tools for the right job**:
 
   An active and enthusiastic user community proves that there's something valuable in a tool.
 
-  Jekyll has plenty of [users](https://github.com/mojombo/jekyll/wiki/sites), and [GitHub pages](http://pages.github.com) support it.
+  Jekyll has plenty of [users](https://github.com/mojombo/jekyll/wiki/sites), and [GitHub pages](http://pages.github.com) support it. Even [Werner uses it](http://www.allthingsdistributed.com/2011/08/Jekyll-amazon-s3.html).
