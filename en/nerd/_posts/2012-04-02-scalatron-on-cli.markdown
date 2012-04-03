@@ -10,9 +10,9 @@ title: Scalatron on the command-line interface
 
 Scalatron is a super fun way to learn Scala the programming language. In Scalatron, you program bots that go around on a two-dimensional plane, reacting on the events that happen on the game. The game rules are simple, but there is no upper limit on how intelligent bots you can program. What an intriguing challenge!
 
-If you want to learn functional programming and Scala, I highly recommend that you check out the Scalatron [web page](http://scalatron.wordpress.com) and start writing your own bots. The Scalatron team has written decent tutorials for getting started. Give them a try.
+If you want to learn functional programming and Scala, I highly recommend that you check out the Scalatron [web page](http://scalatron.wordpress.com) and start writing your own bots. The Scalatron team has also written decent tutorials for getting started.
 
-This article is meant as a supplement to the official Scalatron documentation, which already contains information on how to set up a development environment on IntelliJ IDEA. I believe that working on the \*nix command-line interface is important, if you want to get an in-depth understanding of the programming system you are learning. **Here are some of the benefits of working on the CLI instead of an IDE:**
+**This article is meant as a supplement to the official Scalatron documentation, which already contains information on how to set up a development environment on IntelliJ IDEA.** I believe that working on the \*nix command-line interface is important, if you want to get an in-depth understanding of the programming system you are learning. **Here are some of the benefits of working on the CLI instead of an IDE:**
 
 * You get to understand the compiler, because you have to compile the software yourself
 * You will understand the meaning of every file in your project, since you've created them yourself
