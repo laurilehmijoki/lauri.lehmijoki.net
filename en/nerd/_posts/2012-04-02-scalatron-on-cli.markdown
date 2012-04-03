@@ -70,10 +70,10 @@ You can also install the Scalatron server with the following steps:
 
 ## Developing Scalatron bots on CLI
 
-The official Scalatron documentation tells you how to compile and develop bots with IntelliJ Idea. Here we go through an alternative (and I believe faster) way of developing bots.
+The official Scalatron documentation tells you how to compile and develop bots with IntelliJ IDEA. Here we go through an alternative (and I believe faster) way of developing bots.
 
 ### Creating new Scalatron project
-Create a new project directory for your bot.
+Create a new project directory for your bot:
 
 `mkdir MorningLightMountain && cd MorningLightMountain` (MorningLightMountain is a nefarious alien in Peter Hamilton's Commonwealth Saga, a science fiction book series.)
 
@@ -81,7 +81,7 @@ Let's create the needed sub-directories:
 
 `mkdir bin src`
 
-Edit the file *src/Bot.scala* and add the code for the most simplest bot.
+Edit the file *src/Bot.scala* and add the code for the most simplest bot:
 
 <pre><code>// Contents of src/Bot.scala
 class ControlFunctionFactory {
