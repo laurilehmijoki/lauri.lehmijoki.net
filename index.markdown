@@ -21,7 +21,7 @@ Coding at [Efecte](http://www.efecte.fi). \(From mid-April, I'll be coding and c
 Coding, yoga, literature, politics, economics, natural languages, Star Trek. Nerding in general.
 
 ## Articles
-{% for post in site.posts limit:2%}
+{% for post in site.posts limit:3%}
 
 * [{{post.title}}]({{post.url}})
 
