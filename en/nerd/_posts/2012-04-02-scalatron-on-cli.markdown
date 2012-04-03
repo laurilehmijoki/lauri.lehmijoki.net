@@ -26,7 +26,7 @@ Here I assume that you don't have Scala installed on your system. We are going t
 
 Its possible to install Scala via a package manager such as Apt-get on Ubuntu, but the Scala version in your package manager's repository might be outdated. Because of that and the idea that **working on the CLI helps you understand the programming system you want to learn, I suggest that you install Scala with the steps below**.
 
-### Install Scala
+### Installing Scala
 
 First, download Scala (you can check for the latest release on the [Scala download page](http://www.scala-lang.org/downloads); here we are using the version 2.9.1):
 
@@ -38,7 +38,7 @@ Create the directory where to put Scala and then unpack the zip:
 
 `unzip /tmp/scala.zip -d ~/Install`
 
-### Configure environment
+### Configuring environment
 
 Create the SCALA\_HOME environmental variable by appending a string into your shell configuration:
 
@@ -109,7 +109,7 @@ Save the script with name *build* into your project's root and make it executabl
 
 Now you can compile the Scalatron bot with `./build`.
 
-### Deploy the bot on server
+### Deploying the bot on server
 
 This step is easy. All we need to do is to make the *Scalatron.jar* available for the server. Symbolic links will help us. Let's assume that you've installed the Scalatron server in *~/Scala/Scalatron/server* and the MorningLightMountain project is in *~/Scala/Scalatron/MorningLightMountain*. Run the following commands to create the symbolic link.
 
