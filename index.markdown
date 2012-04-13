@@ -4,7 +4,7 @@ title: lauri lehmijoki
 ---
 ## Work
 
-Coding at [Efecte](http://www.efecte.fi). \(From mid-April, I'll be coding and consulting at [Reaktor](http://www.reaktor.fi).\)
+Coding at [Reaktor](http://www.reaktor.fi/en).
 
 ## Social
 
