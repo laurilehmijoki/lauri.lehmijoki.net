@@ -30,11 +30,13 @@ module Jekyll
     end
 
     def origin(key)
-      append "- **Origin:** " + for_key(key, 'origin')
+      value = for_key(key, 'origin')
+      append "- **Origin:** " + value unless value.empty?
     end
 
     def comment(key)
-      append "- **Comment:** " + for_key(key, 'comment')
+      value = for_key(key, 'comment')
+      append "- **Comment:** " + value unless value.empty?
     end
 
     def for_key(key, subkey)

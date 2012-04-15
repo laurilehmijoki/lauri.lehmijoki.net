@@ -4,7 +4,7 @@ title: A selection of English words
 ---
 # {{page.title}}
 
-#### Etymologically interesting or ambiguous words
+#### Etymologically surprising or ambiguous words
 
 {% dictonarylist en/language/english-words.yml %}
 
