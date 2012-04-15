@@ -27,7 +27,7 @@ Coding, yoga, literature, politics, economics, natural languages, Star Trek. Ner
 
 {% endfor %}
 
-and [more](/en/nerd/index.html).
+and [more](/articles.html).
 
 ## Contact
 
