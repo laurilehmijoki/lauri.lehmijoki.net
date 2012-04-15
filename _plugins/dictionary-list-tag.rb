@@ -32,16 +32,16 @@ module Jekyll
 
     def origin(key)
       value = for_key(key, 'origin')
-      append "- **Origin:** " + value unless value.empty?
+      append "- **Origin:** " + value if value
     end
 
     def comment(key)
       value = for_key(key, 'comment')
-      append "- **Comment:** " + value unless value.empty?
+      append "- **Comment:** " + value if value
     end
 
     def for_key(key, subkey)
-      @yaml[key][subkey] if @yaml[key]
+      @yaml[key][subkey] if @yaml.fetch(key)
     end
 
     def append(string)
