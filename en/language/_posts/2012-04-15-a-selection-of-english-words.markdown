@@ -10,5 +10,5 @@ title: A selection of English words
 
 ***
 
-This page is made with a custom Jekyll plugin and a [YAML file](english-words.yml) that contains the
+This page is made with a [custom Jekyll plugin](https://github.com/laurilehmijoki/lauri.lehmijoki.net/blob/master/_plugins/dictionary-list-tag.rb) and a [YAML file](english-words.yml) that contains the
 entries. 
