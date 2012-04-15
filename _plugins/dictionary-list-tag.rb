@@ -10,6 +10,7 @@ module Jekyll
       @dictionary_file = text
       @markdown = ""
       @yaml = YAML::load(`cat #{@dictionary_file}`)
+      @keys = @yaml.keys.sort
     end
 
     def render(context)
@@ -18,7 +19,7 @@ module Jekyll
     end
 
     def to_markdown
-      @yaml.each_key{ |key|
+      @keys.each{ |key|
         header(key)
         origin(key)
         comment(key)
