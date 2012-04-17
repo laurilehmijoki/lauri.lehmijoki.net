@@ -24,3 +24,11 @@ bail out: {
   harmful or difficult situation.\n\n\tThus, bailing out a bank means saving it
   before the plane crashes. Phew!"
 }
+
+essay: {
+ origin: "Middle French *essai* \"trial, attempt\"",
+ comment: "A literary essay is an attempt to work on an idea and maybe reach a
+ fruitful conclusion in the end. Even the conclusion is optional.\n\n\tThinking
+ of essay as an attempt relaxes the writing process. Just try, and it is
+ alright."
+}
