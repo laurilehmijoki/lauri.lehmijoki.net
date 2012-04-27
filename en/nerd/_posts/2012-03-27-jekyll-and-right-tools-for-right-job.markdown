@@ -5,7 +5,7 @@ published: true
 ---
 # {{ page.title }}
 
-#### Jekyll as an example of a tool that lets you concentrate on the problem and skip irrelevant details
+#### Jekyll is an example of a tool that lets you concentrate on the problem and skip irrelevant details
 
 Jekyll, the blog and web-site tool for hackers, is excellent for what its made
 for. Jekyll allows you to set up a web site in a few minutes. For example, if
@@ -53,11 +53,11 @@ making it trivial to maintain a list of your three latest blog posts on the
 front-page, for example.
 
 Jekyll is designed to be extended. You can write your own plugins that convert
-eg LaTeX into HTML. In fact, the [built-in
+e.g., LaTeX into HTML. In fact, the [built-in
 converters](https://github.com/mojombo/jekyll/tree/master/lib/jekyll/converters)
 themselves are made with the plugin system. In addition to converters, its
 possible to write new tags that emit data into the generated HTML files. The
-tags are written in Ruby, and they can do everything that Ruby scripts can.
+tags are written in Ruby, and they can do anything that Ruby scripts can.
 
 Lastly, when you write your texts, it helps to see them in their final form.
 Jekyll's web server can automatically generate the site every time you save your
