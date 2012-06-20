@@ -1,3 +1,4 @@
 auto: true
 exclude: bootstrap
 permalink: none
+pygments: true
