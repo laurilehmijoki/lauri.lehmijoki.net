@@ -14,8 +14,8 @@ result, he had an executable shell script that he could invoke from anywhere
 within that computer.
 
 This quick and painless way of creating Bash scripts can be used for shortening
-your daily Unix and Linux shell routines. I use it for for creating SSH
-shortcuts, for example. Typing `immotile` is much quicker than `ssh
+your daily Unix and Linux shell routines. I use it for creating SSH shortcuts,
+for example. Typing `immotile` is much quicker than `ssh
 immotile.morninglightmountain.net`. Over the time, this kind of handy helpers
 save a lot of time. They also make you grin a bit to yourself – you get the
 "that was easy" feeling!
