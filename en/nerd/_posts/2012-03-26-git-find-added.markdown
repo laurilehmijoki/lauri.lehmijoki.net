@@ -11,15 +11,27 @@ Sometimes you need to know then a certain string was added to Git. The script
 below can help you. Save the script into a file named _git-find-added_ and place
 the file into a directory that is in your path.
 
-<script src="https://gist.github.com/2205576.js"> </script>
+{% highlight bash %}
+#!/bin/bash
+# Usage: `git-find-added QUERY [PATH]`
+#
+# Examples: `git-find-added myfunc` will print the context and the commits where
+# myfunc was either added or updated.
+#
+# Credit: Ari S & LL
+
+QUERY=$1; shift
+
+git log -p -- $@ | grep -E "^(commit|\+.*$QUERY)" | grep -B1 "$QUERY"
+{% endhighlight %}
 
 Running the script will print you something like this:
 
 <pre><code>$ git-find-added "em-websocket"
 commit 91023e800726abad14ed682f638ded74d86fbb6b
-+gem "em-websocket"
-+    em-websocket (0.3.6)
-+  em-websocket
++ gem "em-websocket"
++ em-websocket (0.3.6)
++ em-websocket
 --
 commit c911bb2f741eafa4d52289e11fb97ce120cda1a8
 +require 'em-websocket'
