@@ -90,7 +90,8 @@ edit $script
 ## Afterword
 
 Thanks to the possibility of storing Bash snippets into *~/bin/local* (which is
-in *.gitignore*), I can keep my home directory's Git status clean.
+in *.gitignore*), I can keep my home directory's Git status clean, even though I
+have files local to the particular computer.
 
 {% highlight bash %}
 20:47 (air @ master) ~ $ git status
@@ -100,3 +101,9 @@ in *.gitignore*), I can keep my home directory's Git status clean.
 nothing to commit (working directory clean)
 20:47 (air @ master) ~ $
 {% endhighlight %}
+
+However, if I want to create Bash scripts that are available to all my
+computers, I use `cmd e themagicscript`, which saves it into *~/bin*. After
+that, all I need to do is to commit the new script into my local Git, push the
+changes into GitHub and then pull them to my other computers. All this makes it
+much more sensible to invest time into your personal Bash scripts.
