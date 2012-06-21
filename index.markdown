@@ -21,7 +21,7 @@ Coding at [Reaktor](http://www.reaktor.fi/en).
 Coding, yoga, literature, politics, economics, natural languages, Star Trek. Nerding in general.
 
 ## Articles
-{% for post in site.posts limit:3%}
+{% for post in site.posts limit:4%}
 
 * [{{post.title}}]({{post.url}})
 
