@@ -122,10 +122,13 @@ Let's create the needed sub-directories:
 
 Edit the file *src/Bot.scala* and add the code for the most simplest bot:
 
-<pre><code>// Contents of src/Bot.scala class ControlFunctionFactory { def
-create = new Bot().respond _ } class Bot { def respond(input: String) =
-"Status(text=MorningLightMountain will conquer the whole universe!)"
-}</code></pre>
+{% highlight scala %}
+// Contents of src/Bot.scala 
+class ControlFunctionFactory {
+  def create = new Bot().respond _ } class Bot { def respond(input: String) =
+    "Status(text=MorningLightMountain will conquer the whole universe!)"
+}
+{% endhighlight %}
 
 Next we'll compile the Scalatron bot, and then we'll deploy it on the server.
 Will humans prevail, or will MorningLightMountain take over and enslave us?
