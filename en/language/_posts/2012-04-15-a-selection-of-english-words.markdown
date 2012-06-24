@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: article-en
 title: A selection of English words
+hiderelatedlinks: true
 ---
 # {{page.title}}
 

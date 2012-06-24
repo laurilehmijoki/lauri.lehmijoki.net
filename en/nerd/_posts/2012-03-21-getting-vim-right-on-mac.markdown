@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article-en
 title: Getting VIM right on Mac
 ---
 # {{ page.title }}

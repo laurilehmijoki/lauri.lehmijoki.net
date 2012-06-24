@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article-en
 title: Jekyll and the right tools for the right job
 published: true
 ---

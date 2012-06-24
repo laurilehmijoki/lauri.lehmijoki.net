@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article-en
 title: Scalatron on the command-line interface
 ---
 # {{ page.title }}

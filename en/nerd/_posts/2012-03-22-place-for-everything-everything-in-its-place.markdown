@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article-en
 title: A place for everything and everything in its place
 ---
 # {{ page.title }}

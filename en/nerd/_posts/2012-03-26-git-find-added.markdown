@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article-en
 title: Git-find-added
 published: true
 ---
