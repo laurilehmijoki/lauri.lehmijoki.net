@@ -10,17 +10,17 @@ published: true
 Jekyll, the blog and web-site tool for hackers, is excellent for what its made
 for. Jekyll allows you to set up a web site in a few minutes. For example, if
 you would like to run this site on your computer, you could do it in three
-lines, assuming you have Ruby and RubyGems installed:
+lines, assuming you have Ruby and Ruby Bundler installed:
 
-`sudo gem install jekyll`
+`bundle install`
 
 `git clone git://github.com/laurilehmijoki/lauri.lehmijoki.net.git blog`
 
-`cd blog && jekyll --server` 
+`cd blog && jekyll --server`
 
 The command `jekyll --server` converts the Markdown files and HTML templates
 into HTML files and starts up an HTTP server at your
-[localhost:4000](http://localhost:4000). 
+[localhost:4000](http://localhost:4000).
 
 Modifying content is easy. If you the front-page of this site most definitely
 needs a picture of Jean-Luc Picard, you could edit the file _index.markdown_ in
@@ -83,7 +83,7 @@ Jekyll exhibits **the following qualities of the right tool for the right
 job**:
 
 - **It allows you to concentrate on the domain "problem"**
-  
+
   The right tools for the right job _really_ help you. They don't make your life
   more difficult, nor do they distract your concentration; instead, they let you
   put your mind onto the actual problem you are trying to solve.
@@ -98,8 +98,8 @@ job**:
 - **It does one thing well**
 
   The right tools for the right job solve one problem well. They do not pretend
-  to be all-around tools. 
-  
+  to be all-around tools.
+
   Jekyll is a superb web site tool for nerds. It does not intend to be the best
   CMS for everybody.
 
