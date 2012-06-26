@@ -1,5 +1,4 @@
 .DS_Store
 _jekyll_s3.yml
 _site
-.swp
-.swo
+Gemfile.lock
