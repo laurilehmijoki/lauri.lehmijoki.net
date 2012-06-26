@@ -1,4 +1,4 @@
 auto: true
-exclude: bootstrap
+exclude: bootstrap, README.md, CssMinify.yml, Gemfile, Gemfile.lock
 permalink: none
 pygments: true
