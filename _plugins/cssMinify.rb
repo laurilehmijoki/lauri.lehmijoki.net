@@ -23,7 +23,7 @@ module Jekyll
         modified > latest ? modified : latest
       end
       # reset the minified filename
-      $minified_filename = last_modified.strftime("%Y%m%d%H%M") + '.min.css'
+      $minified_filename = 'styles.min.css'
 
       output_dir = File.join(site.config['destination'], config['css_destination'])
       output_file = File.join(output_dir, $minified_filename)
