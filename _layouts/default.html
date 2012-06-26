@@ -9,51 +9,10 @@
     <link rel="shortcut icon" href="/img/favicon.ico" />
     <link rel="alternate" href="http://feeds.feedburner.com/LauriLehmijoki" title="Lauri Lehmijoki" type="application/atom+xml" />
     <link rel="stylesheet" href="{% minified_css_file %}">
-    <style type="text/css">
-      .site-logo {
-        max-height: 33px;
-        display: inline;
-        margin: 3px;
-        border-radius: 5px;
-        margin-top: 3px;
-      }
-      body {
-        padding-top: 60px;
-      }
-      .beef {
-        padding: 10px 15px 10px;
-        background-color: white;
-      }
-      body {
-        background-color: #E7E7E7;
-      }
-      .container {
-        max-width:640px;
-      }
-      @media (max-width:640px) {
-        body {
-          background-color: white;
-        }
-        .beef {
-          padding: 10px 0 10px;
-        }
-      }
-      h4 {
-        margin: 7px 0 7px;
-      }
-      code {
-        color: black;
-      }
-      hr {
-        border-top: 2px solid #EEE
-      }
-    </style>
-
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
   </head>
-
   <body>
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner custom">
@@ -63,23 +22,19 @@
         </div>
       </div>
     </div>
-
     <div class="container beef">
       {{ content }}
     </div>
   </body>
   <script type="text/javascript">
-
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-30187195-1']);
     _gaq.push(['_trackPageview']);
-
     (function() {
      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
      })();
-
   </script>
 </html>
 
