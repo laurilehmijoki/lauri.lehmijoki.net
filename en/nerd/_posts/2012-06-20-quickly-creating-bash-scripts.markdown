@@ -106,4 +106,4 @@ However, if I want to create Bash scripts that are available to all my
 computers, I use `cmd e themagicscript`, which saves it into *~/bin*. After
 that, all I need to do is to commit the new script into my local Git, push the
 changes into GitHub and then pull them to my other computers. All this makes it
-much more sensible to invest time into your personal Bash scripts.
+much more sensible to invest time into personal Bash scripts.
