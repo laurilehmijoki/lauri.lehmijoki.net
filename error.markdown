@@ -2,6 +2,6 @@
 layout: default
 title: Page not found
 ---
-## Oops! Its not here!
+## Oops. The page is not here.
 
 Try the [front-page](/) instead.
