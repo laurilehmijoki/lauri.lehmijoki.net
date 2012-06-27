@@ -22,10 +22,10 @@ The command `jekyll --server` converts the Markdown files and HTML templates
 into HTML files and starts up an HTTP server at your
 [localhost:4000](http://localhost:4000).
 
-Modifying content is easy. If you the front-page of this site most definitely
-needs a picture of Jean-Luc Picard, you could edit the file _index.markdown_ in
-the blog directory, add the picture and see the image of the starship captain
-right away on the browser.
+Modifying content is easy. If you think the front-page of this site most
+definitely needs a picture of Jean-Luc Picard, you could edit the file
+_index.markdown_ in the blog directory, add the picture and see the image of the
+starship captain right away on the browser.
 
 ## How Jekyll works
 
