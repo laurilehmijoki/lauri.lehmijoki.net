@@ -35,3 +35,9 @@ Add the following stuff into file *_jekyll_s3.yml*:
     s3_bucket: <AWS-S3-BUCKET-NAME>
 
 Then `jekyll --server` and then `jekyll-s3`.
+
+# Updating bootstrap.css
+
+1. Download [Twitter Bootstrap](https://github.com/twitter/bootstrap/)
+2. Build it by running `make`
+3. Copy the resulting *bootstrap.css* to *css/bootstrap.css*
