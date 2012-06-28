@@ -5,26 +5,46 @@
   border-radius: 5px;
   margin-top: 3px;
 }
+img.site-logo {
+  display: inline;
+}
 body {
   padding-top: 60px;
 }
-.beef {
-  padding: 10px 15px 10px;
+#header {
+  background: #82AB1F;
+  text-align: center;
+  color: #F2F2F2;
+  padding: 5px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  box-shadow: 0 0 2px 2px #AAA;
+}
+#header a {
+  font-size: 20px;
+  font-weight: 200;
+  color: white;
+  text-decoration: none;
+  vertical-align: middle;
+}
+#header img {
+  margin-left: 8px;
+}
+#beef {
+  padding: 2em 1.5em;
   background-color: white;
+  max-width: 48em;
+  box-shadow: 2px 2px 8px 1px #AAA;
+  margin-left: auto;
+  margin-right: auto;
 }
 body {
   background-color: #E7E7E7;
 }
 .container {
   max-width:640px;
-}
-@media (max-width:640px) {
-  body {
-    background-color: white;
-  }
-  .beef {
-    padding: 10px 0 10px;
-  }
 }
 h4 {
   margin: 7px 0 7px;
