@@ -8,16 +8,12 @@
 img.site-logo {
   display: inline;
 }
-body {
-  padding-top: 60px;
-}
 #header {
+  margin-bottom: 10px;
   background: #82AB1F;
   text-align: center;
   color: #F2F2F2;
   padding: 5px;
-  position: fixed;
-  top: 0;
   width: 100%;
   z-index: 1;
   box-shadow: 0 0 2px 2px #AAA;
