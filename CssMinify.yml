@@ -1,5 +1,5 @@
 files: [
-  'css/bootstrap.css',
-  'css/pygments-syntax-highlighting.css',
-  'css/my.css',
+  'css/uncompressed/bootstrap.css',
+  'css/uncompressed/pygments-syntax-highlighting.css',
+  'css/uncompressed/my.css',
 ]

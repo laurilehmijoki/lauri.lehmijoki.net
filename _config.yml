@@ -6,5 +6,6 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - incubation
+- css # CssMinify will generate the CSS and place it under _site
 permalink: none
 pygments: true

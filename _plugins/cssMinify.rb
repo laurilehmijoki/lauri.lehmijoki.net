@@ -57,7 +57,7 @@ module Jekyll
     def self.get_config
       if @config == nil
         @config = {
-          'css_source' => 'css', # relative to the route
+          'css_source' => 'css/uncompressed', # relative to the route
           'css_destination' => '/css' # relative to site.config['destination']
         }
         config = YAML.load_file('CssMinify.yml') rescue nil
