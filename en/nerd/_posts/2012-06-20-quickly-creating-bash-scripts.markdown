@@ -21,10 +21,10 @@ save a lot of time. They also make you grin a bit to yourself – you get the
 "that was easy" feeling!
 
 Below is my adaption of mr. A's idea. I have extended it a bit to support my
-[GitHub dotfiles](https://github.com/laurilehmijoki/dotfiles) configuration;
-`cmd e myscript` creates a script into the *~/bin* directory, whereas `cmd le
-myscript` creates one into *~/bin/local*. The difference here is that *~/bin* is
-in GitHub but *~/bin/local* is not.
+[GitHub dotfiles]({% post_url 2012-06-29-on-importance-of-having-dotfiles-in-github %}) 
+configuration; `cmd e myscript` creates a script into the *~/bin* directory,
+whereas `cmd le myscript` creates one into *~/bin/local*. The difference here is
+that *~/bin* is in GitHub but *~/bin/local* is not.
 
 ## Usage
 
