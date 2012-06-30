@@ -55,9 +55,9 @@ moments of delight and zen: version-controlled Unix home directory brings sense
 of peacefulness; [handy Bash scripts speed up your daily shell operations and
 make you grin]({% post_url 2012-06-20-quickly-creating-bash-scripts %}); tuning
 your favorite text editor's configuration file will result in a transcendental
-union with you and the computer.
+union between you and the computer.
 
-## Usage or how to put your home directory into GitHub
+## Usage, or how to put your home directory into GitHub
 
 * Create a Git repository for your home directory with `cd ~ && git init`
 * Add into Git the the files you consider as your personal configuration files
