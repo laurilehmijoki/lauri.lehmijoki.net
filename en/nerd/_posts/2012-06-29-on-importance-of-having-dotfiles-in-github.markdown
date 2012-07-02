@@ -18,7 +18,8 @@ directory.  In this context, the term dotfiles denotes personal Unix shell
 settings.
 
 In this article I am going discuss why it is beneficial to keep dotfiles in Git
-and have them stored in GitHub.
+and have them stored in GitHub. At the end, I will provide a how-to on putting
+dotfiles under GitHub.
 
 ## Why bother?
 
