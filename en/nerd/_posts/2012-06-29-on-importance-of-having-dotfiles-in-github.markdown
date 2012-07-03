@@ -75,8 +75,8 @@ union between you and the computer.
 ## Dotfiles testimonies from nerds
 
 > If Unix shell were Metaverse, the virtual reality in Neal Stephenson's *Snow
-> Crash*, dotfiles would be your belongings to take with every time you enter
-> the alternative world.
+> Crash*, dotfiles would be your belongings to take with you every time you
+> enter the alternative world.
 
 > MacGuyver is no MacGuyver without his Swiss army knife – nor is a nerd a
 > nerd without polished dotfiles.
