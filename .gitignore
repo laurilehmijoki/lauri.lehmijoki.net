@@ -1,4 +1,5 @@
 .DS_Store
 _jekyll_s3.yml
+_cf_s3_invalidator.yml
 _site
 Gemfile.lock

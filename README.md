@@ -28,13 +28,11 @@ Juicer will not compress the CSS.
 
 ## Uploading to AWS S3
 
-Add the following stuff into file *_jekyll_s3.yml*:
+`jekyll-s3`
 
-    s3_id: <AWS-KEY>
-    s3_secret: <AWS-SECRET>
-    s3_bucket: <AWS-S3-BUCKET-NAME>
+## Invalidating the Cloudfront distribution
 
-Then `jekyll --server` and then `jekyll-s3`.
+`cf-s3-inv`
 
 # Updating bootstrap.css
 
