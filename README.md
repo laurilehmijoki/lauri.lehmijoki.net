@@ -24,15 +24,13 @@ Juicer will not compress the CSS.
 
 # Usage
 
+Build the site and start the local server:
+
 `jekyll --server`
 
-## Uploading to AWS S3
+## Deploying to S3 and invalidating the Cloudfront distribution
 
-`jekyll-s3`
-
-## Invalidating the Cloudfront distribution
-
-`cf-s3-inv`
+`rake deploy`
 
 # Updating bootstrap.css
 
