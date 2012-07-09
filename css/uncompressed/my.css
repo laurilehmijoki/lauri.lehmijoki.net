@@ -9,11 +9,9 @@ img.site-logo {
   display: inline;
 }
 #header {
-  margin-bottom: 10px;
   background: #82AB1F;
-  text-align: center;
   color: #F2F2F2;
-  padding: 5px;
+  margin-bottom: 5px;
   width: 100%;
   z-index: 1;
   box-shadow: 0 0 2px 2px #AAA;
@@ -29,10 +27,15 @@ img.site-logo {
   margin-left: 8px;
 }
 #beef {
-  padding: 2em 1.5em;
+  padding-top: 2em;
+  padding-bottom: 2em;
   background-color: white;
-  max-width: 48em;
   box-shadow: 2px 2px 8px 1px #AAA;
+}
+.falafel {
+  max-width: 48em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
   margin-left: auto;
   margin-right: auto;
 }
