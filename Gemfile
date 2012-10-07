@@ -1,6 +1,5 @@
 source "http://rubygems.org"
 
 gem "jekyll"
-gem "jekyll-s3"
+gem "jekyll-s3", "~> 0.0.5"
 gem "juicer"
-gem "cf-s3-invalidator"
