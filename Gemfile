@@ -1,5 +1,5 @@
 source "http://rubygems.org"
 
 gem "jekyll"
-gem "jekyll-s3", "~> 0.0.7"
+gem "jekyll-s3", "~> 1.0.0"
 gem "juicer"
