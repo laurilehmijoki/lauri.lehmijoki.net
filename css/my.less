@@ -34,12 +34,17 @@
   margin-right: auto;
 }
 #beef {
+  @generic-margin: 9px;
   padding-top: 1em;
   padding-bottom: 2em;
   background-color: white;
   box-shadow: 2px 2px 8px 1px #AAA;
   h2 {
+    margin-bottom: @generic-margin;
     line-height: 28px;
+  }
+  p {
+    margin-bottom: @generic-margin;
   }
   h4 {
     margin: 7px 0 7px;
