@@ -27,7 +27,7 @@ img.site-logo {
   margin-left: 8px;
 }
 #beef {
-  padding-top: 2em;
+  padding-top: 1em;
   padding-bottom: 2em;
   background-color: white;
   box-shadow: 2px 2px 8px 1px #AAA;
@@ -50,4 +50,9 @@ code {
 }
 hr {
   border-top: 2px solid #EEE
+}
+.article-date {
+  text-align: right;
+  color: grey;
+  font-size: 12px;
 }
