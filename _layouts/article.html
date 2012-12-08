@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="article-date">{{ page.date | date: "%d %B %Y" }}</div>
+<div class="article-date">{{ page.date | date: page.date-format }}</div>
 <h1>{{ page.title }}</h1>
 
 {{ content }}
