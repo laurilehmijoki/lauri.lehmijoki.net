@@ -24,6 +24,7 @@ Coding, yoga, literature, politics, economics, natural languages, Star Trek. Ner
 {% for post in site.posts limit:4%}
 
 * [{{post.title}}]({{post.url}})
+  {% if post.categories[0] == 'fi' %} (in Finnish) {% endif %}
 
 {% endfor %}
 
