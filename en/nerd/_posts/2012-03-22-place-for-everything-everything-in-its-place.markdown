@@ -2,8 +2,6 @@
 layout: article-en
 title: A place for everything and everything in its place
 ---
-# {{ page.title }}
-
 #### Using Dropbox, GitHub and other cloud services to keep personal data organised
 
 The old proverb _A place for everything and everything in its place_ contains

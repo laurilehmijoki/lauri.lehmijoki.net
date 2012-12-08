@@ -3,8 +3,6 @@ layout: article-en
 title: A selection of English words
 hiderelatedlinks: true
 ---
-# {{page.title}}
-
 #### Etymologically surprising or ambiguous words
 
 {% dictonarylist en/language/english-words.yml %}

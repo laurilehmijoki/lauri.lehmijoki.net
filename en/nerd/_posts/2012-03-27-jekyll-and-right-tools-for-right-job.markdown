@@ -3,8 +3,6 @@ layout: article-en
 title: Jekyll and the right tools for the right job
 published: true
 ---
-# {{ page.title }}
-
 #### Jekyll is an example of a tool that lets you concentrate on the problem and skip irrelevant details
 
 Jekyll, the blog and web-site tool for hackers, is excellent for what its made

@@ -3,8 +3,6 @@ layout: article-en
 title: Git-find-added
 published: true
 ---
-# {{ page.title }}
-
 #### Finding out when a string was added to a Git repository
 
 Sometimes you need to know then a certain string was added to Git. The script

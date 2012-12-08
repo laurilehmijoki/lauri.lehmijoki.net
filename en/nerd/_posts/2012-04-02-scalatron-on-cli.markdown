@@ -2,8 +2,6 @@
 layout: article-en
 title: Scalatron on the command-line interface
 ---
-# {{ page.title }}
-
 #### How to develop Scalatron bots on the CLI
 
 ## Background

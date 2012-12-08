@@ -3,8 +3,6 @@ layout: article-en
 title: Quickly creating Bash scripts
 published: true
 ---
-# {{ page.title }}
-
 #### Conveniently create a Bash script for each repetitive shell task
 
 My former colleague, mr. A, had a tremendously useful Bash script that he used

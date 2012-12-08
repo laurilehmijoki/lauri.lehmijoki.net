@@ -2,8 +2,6 @@
 layout: article-en
 title: Getting VIM right on Mac
 ---
-# {{ page.title }}
-
 Opening a brand new MacBook is a pleasant experience. However, there is a bit of
 fine-tuning that I do on my Mac, before I start to feel comfortable with it. I
 first get my dotfiles from GitHub, and then I compile VIM because the default

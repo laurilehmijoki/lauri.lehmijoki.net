@@ -2,8 +2,6 @@
 layout: article-en
 title: On importance of having dotfiles in GitHub
 ---
-# {{ page.title }}
-
 #### Making it more sensible to invest into Unix shell configuration files
 
 In Unix-like systems, configuration files are often called dotfiles. The name
