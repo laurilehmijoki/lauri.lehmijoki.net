@@ -23,8 +23,7 @@ Coding, yoga, literature, politics, economics, natural languages, Star Trek. Ner
 ## Articles
 {% for post in site.posts limit:4%}
 
-* [{{post.title}}]({{post.url}})
-  {% if post.categories[0] == 'fi' %} (in Finnish) {% endif %}
+* {{ post | create_article_link }}
 
 {% endfor %}
 
