@@ -2,7 +2,7 @@
 layout: article-fi
 title: Versiolla on väliä
 ---
-#### Ohjelmistoversiot viestinnän muotona
+#### Ohjelmistoversiot viestinnän muotona, ja semanttisesta versioinnista
 
 Kehittäjienvälinen viestintä on ohjelmistokehityksen tärkeimpiä näkökulmia.
 Viestintää tapahtuu monella tasolla; käytäväkeskustelut ja tiimin sisäiset
