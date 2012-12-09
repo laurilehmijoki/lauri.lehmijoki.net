@@ -10,7 +10,7 @@ translation-original-author: Paul Graham
 Hyvä ohjelmoija, joka työskentelee intensiivisesti koodinsa parissa, pystyy
 pitämään koko ohjelman mielessään. Tässä hän muistuttaa matemaatikkoa.
 Matemaatikko ei ratkaise ongelmaa laskemalla paperille vaan kääntämällä ja
-muovaamalla sitä mielessään. Matemaatikko pyrkii ymmärtämään ongelman niin
+muovaamalla kysymystä mielessään. Matemaatikko pyrkii ymmärtämään ongelman niin
 hyvin, että hän pystyy mielessään kävelemään sen huoneissa kuten
 lapsuudenkodissaan. Parhaimmillaan ohjelmointi on samanlaista; ohjelmoija pitää
 koodia mielessään, kyeten muokkaamaan sitä tahtonsa mukaan.
@@ -20,19 +20,19 @@ tällöin tärkeintä on kyetä vaihtamaan suuntaa. Suunnan vaihtaminen ei tarko
 vain ongelman ratkaisua eri tavalla, vaan myös koko ongelman
 uudelleenmäärittelyä.
 
-Koodi on kuvaus ongelmasta, jota ohjelmoija tutkii. Tästä johtuen vain silloin,
+Koodi on kuvaus ongelmasta, jota ohjelmoija tutkii. Tästä johtuen vain silloin
 kun ohjelmoija pystyy pitämään koko koodin mielessään, voi hän ymmärtää
-ratkaistavana olevan ongelman.
+käsillä olevan ongelman.
 
-Ohjelmoijan ei ole helppo ladata ohjelmaa mieleensä. Mikäli hän jättää projektin
-muutamaksi kuukaudeksi, voi häneltä paluun jälkeen kulua useita päiviä ongelman
-uudelleenymmärtämiseen. Jopa silloin, kun ohjelmoija aktiivisesti työskentelee
-koodin parissa, voi häneltä kulua puoli tuntia päivän alussa sen mieleen
-palauttamiseen. Näin on siis parhaassa tapauksessa. Tavalliset ohjelmoijat,
-jotka työskentelevät tyypillisissä toimisto-olosuhteissa, eivät koskaan saavuta
-tätä tilaa, jossa koko koodi on heidän mielessään. Dramaattisemmin ilmaistuna,
-tavallinen ohjelmoija tyypillisessä toimistossa ei koskaan ymmärrä ongelmaa,
-jota hän yrittää ratkaista.
+Ohjelmoijan ei ole helppoa ladata ohjelmaa mieleensä. Mikäli hän jättää
+projektin muutamaksi kuukaudeksi, voi häneltä paluun jälkeen kulua useita päiviä
+ongelman uudelleenymmärtämiseen. Jopa silloin, kun ohjelmoija aktiivisesti
+työskentelee koodin parissa, voi häneltä kulua puoli tuntia päivän alussa sen
+mieleen palauttamiseen. Näin on siis parhaassa tapauksessa. Tavalliset
+ohjelmoijat, jotka työskentelevät tyypillisissä toimisto-olosuhteissa, eivät
+koskaan saavuta tilaa, jossa koko koodi on heidän mielessään.  Dramaattisemmin
+ilmaistuna: tavallinen ohjelmoija tyypillisessä toimistossa ei koskaan ymmärrä
+ongelmaa, jota hän yrittää ratkaista.
 
 Jopa parhaat ohjelmoijat eivät aina onnistu rakentamaan kuvaa koko ohjelmasta
 mieleensä. On kuitenkin olemassa keinoja, joilla koodin mieleenlataamista voi
@@ -53,8 +53,8 @@ helpottaa:
    tietää, että tunnin kuluttua on kokous, ei hän edes yritä keskittyä
    ongelmaan, jonka ymmärtäminen vaatii tuntien katkeamattoman keskittymisen.
 
-2. **Työskentele pitkissä jaksoissa.** Koska ohjelmoijan päivittäisen työna
-   loittamiseen liittyy korkea kiinteä kustannus, on hänen tehokkaampaa
+2. **Työskentele pitkissä jaksoissa.** Koska ohjelmoijan päivittäisen työn
+   aloittamiseen liittyy korkea kiinteä kustannus, on hänen tehokkaampaa
    työskennellä pitkissä jaksoissa. Jossakin vaiheessa raja tulee kuitenkin
    vastaan: väsyneenä ihminen tyhmistyy. Tämä raja kuitenkin vaihtelee eri
    henkilöiden välillä. Olen kuullut koodaajista, jotka hakkeroivat 36 tuntia
@@ -95,31 +95,31 @@ helpottaa:
    ohjelmoijan tärkeää välttää liian tiivistä koodia. Ohjelmasta saattaa tulla
    helpompilukuista, mikäli sen osat on selkeästi eroteltu toisistaan kuten
    johdatustason oppikirjassa. Jos ohjelmoija sen sijaan kirjoittaa koodia
-   itselleen, ja hän tavoittelee koodin nopeaa sisäistettävyyttä ja
+   itselleen, ja hän tavoittelee koodin nopeaa sisäistettävyyttä sekä
    mieleenpalauttamista, on usein parempi tehdä koodista tiivistä.
 
 6. **Työskentele pienissä ryhmissä.** Kun ohjelmoija muovaa koodia mielessään,
    hänen visionsa pysähtuu usein hänen oman koodinsa rajoille. Muiden
    ohjelmoijien kirjoittamaa koodia hän ei ymmärrä yhtä hyvin kuin omaansa, ja
-   mikä tärkeämpää, hän ei voi käyttää muiden koodiin samoja vapauksia kuin hän
-   käyttää omaansa. Tästä seuraa, että mitä pienempi ohjelmoijien ryhmä on, sitä
-   laajemmin ryhmä voi muokata ohjelmistoprojektia. Mikäli ohjelmoijia on vain
+   mikä tärkeämpää, hänellä ei ole vapauksia muokata tällaista koodia kuten
+   omaansa. Tästä seuraa, että mitä pienempi ohjelmoijien ryhmä on, sitä
+   laajemmin ryhmä voi muokata ohjelmistoprojektia.  Mikäli ohjelmoijia on vain
    yksi, voi hän suunnitella ja kirjoittaa uudelleen koko ohjelman lyhyessäkin
    ajassa.
 
-7. **Älä anna useiden ihmisten muokata samaa koodia.** Ohjelmoija ei koskaan
-   ymmärrä muiden kirjoittamaa koodia yhtä hyvin kuin omaansa. Vaikka ohjelmoija
-   lukisi toisen kirjoittaman koodin kuinka huolellisesti hyvänsä, ei lukeminen
-   johda samaan ymmärrystasoon kuin se, että olisi itse kirjoittanut ratkaisun
-   samaan ongelmaan. Seurauksena tästä on se, että mikäli tietty koodi on
-   useamman ohjelmoijan kirjoittamaa, ei kukaan näistä ohjelmoijista ymmärrä
-   koodia ja siihen liittyviä ongelmia yhtä hyvin kuin yksi hyvä ohjelmoija
-   voisi ymmärtää.
+7. **Älä anna useiden ihmisten muokata samaa koodia.** Muiden kirjoittama koodi
+   on ohjelmoijalle aina vieraampaa kuin oma. Vaikka ohjelmoija lukisi toisen
+   kirjoittaman koodin kuinka huolellisesti hyvänsä, ei lukeminen johda samaan
+   ymmärrystasoon kuin se, että olisi itse kirjoittanut ratkaisun samaan
+   ongelmaan. Seurauksena tästä on se, että mikäli tietty koodi on useamman
+   ohjelmoijan kirjoittamaa, ei kukaan näistä ohjelmoijista ymmärrä koodia ja
+   siihen liittyviä ongelmia yhtä hyvin kuin yksi hyvä ohjelmoija voisi
+   ymmärtää.
 
    Lisäksi ohjelmoija ei voi vapaasti uudelleensuunnitella ja -kirjoittaa
    jotakin, jonka parissa toiset ohjelmoijat parhaillaan työskentelevät. Kyse ei
    ole vain luvan kysymisestä – uudelleensuunnittelu on useiden ohjelmoijien
-   rymässä usein lähtökohtaisesti poissuljettu idea. Uudelleensuunnittelua
+   ryhmässä usein lähtökohtaisesti poissuljettu ajatus. Uudelleensuunnittelua
    voikin verrata lakien muuttamiseen. Mikäli ohjelmoija suunnittelee uudelleen
    koodin, jonka hän yksin omistaa, muotoilee hän vain uuden tulkinnan
    moniselitteisestä kuvasta. Lain muuttaminen sen sijaan on paljon vaativampaa.
@@ -128,21 +128,21 @@ helpottaa:
    jokaiselle henkilölle omansa.
 
 8. **Liiku alhaalta ylöspäin.** Ohjelmoijan on helpompaa pitää koodi mielessään,
-   kun hän tutustuu siihen paremmin. Tutustuttuaan ohjelmana läpikotaisin, hän
+   kun hän tutustuu siihen paremmin. Tutustuttuaan ohjelmaan läpikotaisin, hän
    voi alkaa kohdella tiettyjä ohjelman osia mustina laatikoina, joiden sisältöä
    hänen ei tarvitse pitää mielessään. Ohjelmistoprojektin alussa ohjelmoijan on
    kuitenkin pidettävä mielessään kaikki yksityiskohdat. Mikäli ohjelmoija
    tarttuu liian suureen projektiin, ei hän välttämättä koskaan pysty
    ymmärtämään sitä kokonaan. Mikäli ohjelmoijan on kirjoitettava suuri,
    monimutkainen ohjelmisto, paras tapa ei välttämättä ole kirjoittaa sille
-   kaikenkattavaa määritelmää, vaan luoda esiversio, joka ratkaisee osan
+   kaikenkattavaa määritelmää, vaan luoda prototyyppi, joka ratkaisee osan
    ongelmista. Mitä tahansa etuja suunnitteluun liittyy, on ohjelmoijan
    tärkeämpää pystyä pitämään koko ohjelmisto mielessään.
 
 On huomionarvoista, miten usein ohjelmoijat onnistuvat sattuman kaupalla
-toteuttamaan yllä olevia kahdeksaa kohtaa. Ohjelmoija keksii idean uudesta
-projektista, mutta koska hän ei saa virallista tukea idealle, hänen täytyy
-ryhtyä toteuttamaan ideaa työajan ulkopuolella. Yllättäen hän huomaakin olevansa
+noudattamaan yllä olevaa kahdeksaa kohtaa. Ohjelmoija keksii idean uudesta
+projektista, mutta koska hän ei saa virallista tukea idealle, hän ryhtyy
+toteuttamaan ideaa työajan ulkopuolella. Yllättäen hän huomaakin olevansa
 tehokkaampi kuin toimistolla, sillä hän voi työskennellä kotona ilman
 keskeytyksiä ja häiriöitä. Innostuneena, hän työskentelee projektin parissa
 useita tunteja putkeen. Koska tämän uuden projektin on tarkoitus olla vain koe,
@@ -156,9 +156,9 @@ sillä hän ei ole kertonut projektista kenellekään, tai koska projekti vaikut
 niin tuottamattomalta, ettei muilla ohjelmoijilla ole virallisesti lupaa
 työskennellä sen parissa. Vaikkakin hän työskentelisi pienessä ryhmässä
 projektin parissa, muutosten tahti olisi niin nopeaa, ettei kukaan pystyisi
-työskentelemään saman osa-alueen parissa. Projekti myös alkaa liikkumaan
-alhaalta ylöspäin, sillä ohjelmoijan uusi idea on vasta alussa; hän vain haluaa
-kokeilla kutkuttavaa ideaa, jonka hän keksi.
+työskentelemään saman osa-alueen parissa. Organisatorisesti katsottuna projekti
+liikkuu alhaalta ylöspäin, sillä se on yhden ohjelmoijan käsissä; hän pystyy
+pitämään koko koodin mielessään.
 
 Vieläkin huomionvarvoisempaa on, miten usein virallisissa ohjelmistoprojekteissa
 tekijät jättävät huomiotta yllä olevat kahdeksan kohtaa. Jos katsot tapaa, miten
@@ -166,10 +166,10 @@ ohjelmistoja kehitetään useimmissa organisaatioissa, näyttää siltä, että 
 yrittävät tieten tahtoen tehdä ohjelmistokehitystä väärin. Tietyssä mielessä
 organisaatiot tekevät ohjelmistokehitystä aina väärin, sillä organisaation
 olemukseen kuuluu kohdella yksilöitä keskenään verrannollisina, potentiaalisesti
-vaihdettavina koneen osina. Tämä lähestymistapa toimii rinnakkaistuville
-tehtäville tehtäville kuten sodankäynti; ammattisotilaista muodostettu armeija
-on miltei aina voittanut yksittäisistä sotureista koostuvan armeijan, huolimatta
-siitä, miten kunniakkaita ja motivoituneita nämä soturit ovat olleet.
+vaihdettavina koneen osina. Tämä lähestymistapa toimii rinnakkaistuvissa
+tehtävissä kuten sodankäynti; ammattisotilaista muodostettu armeija on miltei
+aina voittanut yksittäisistä sotureista koostuvan armeijan huolimatta siitä,
+miten kunniakkaita ja motivoituneita nämä soturit ovat olleet.
 Ohjelmistokehityksessä asia on toisin: ideat ja niiden kehittäminen eivät
 rinnakkaistu helposti. Ja sitähän koodi on: ideoita.
 
@@ -178,11 +178,12 @@ yksittäisestä nerosta, se on myös tautologia: organisaation määritelmään
 sisältyy pyrkimys olla riippumaton yksittäisestä ihmisestä. Ainakin
 tämänhetkinen ymmärryksemme organisaation luonteesta on tällainen.
 
-Ehkä voimme keksia organisaation uudelleen. Sellaisen organisaation, joka
-pystyisi hyödyntämään yksilöitä ilman, että se vaatisi heitä olemaan keskenään
-verrannollisia. Markkina näyttäisi olevan tällainen organisaation muoto,
-vaikkakin näyttäisi olevan osuvampaa kuvata markkinaa organisaation taantuneena
-muotona, joka ilmaantuu, kun järjestäytynyt organisaatio ei ole mahdollista.
+Ehkä voimme keksia organisaation uudelleen. Voisiko olla olemassa organisaatio,
+joka pystyisi hyödyntämään yksilöitä ilman, että se vaatisi heitä olemaan
+keskenään verrannollisia? Markkina näyttäisi olevan tällainen organisaation
+muoto, vaikkakin näyttäisi olevan osuvampaa kuvata markkinaa organisaation
+taantuneena muotona, joka ilmaantuu, kun järjestäytynyt organisaatio ei ole
+mahdollista.
 
 Todennäköisesti paras ratkaisu olisi erottaa ohjelmistokehitykseen liittyvät
 osat organisaation muista osista. Ehkäpä isoille yrityksille ja organisaatioille
@@ -200,21 +201,21 @@ Usein saavutukset kuitenkin vaativat ohjelmoijalta kapinanomaisia tekoja häntä
 työllistävää organisaatiota vastaan. Ehkä tilannetta auttaisi se, että
 organisaation muut työntekijät ymmärtäisivät ohjelmoijien käyttäytyvät oudosti,
 koska heidän työnsä edellyttää erityistä keskittymistä ja yksilösuoritusta.
-Ohjelmoija ei ole välttämättä ole vastuuton, jos hän työskentelee pitkiä jaksoja
-ilman, että hän ottaa osaa mihinkään muuhun toimeen, tai jos hän heti uppoutuu
-kirjoittamaan koodia määrittelyn sijaan, tai jos hän uudelleenkirjoittaa koodia
-joka jo toimii. Ohjelmoija ei myöskään välttämättä ole epäystävällinen, jos hän
-haluaa työskennellä yksin, tai jos hän ärähtää sinulle, kun käyt ystävällisesti
-tervehtimässä häntä ovenraosta. Näillä ärsyttävillä ohjelmoijan käyttäytymiseen
-liittyvillä ilmiöillä on yksi selitys: koko koodin mielessä pitämisen vahva
-voima.
+Ohjelmoija ei välttämättä ole vastuuton, jos hän työskentelee pitkiä jaksoja
+ilman, että hän ottaa osaa mihinkään muuhun velvollisuuteen, tai jos hän heti
+uppoutuu kirjoittamaan koodia yhdessä tehtävän määrittelyn sijaan, tai jos hän
+uudelleenkirjoittaa koodia joka jo toimii. Ohjelmoija ei myöskään välttämättä
+ole epäystävällinen, jos hän haluaa työskennellä yksin, tai jos hän ärähtää
+sinulle, kun käyt ystävällisesti tervehtimässä häntä ovenraosta. Näillä
+ärsyttävillä ohjelmoijan käyttäytymiseen liittyvillä ilmiöillä on yksi selitys:
+koko koodin mielessä pitäminen on vahva voimavara.
 
 Jos yllä olevan ymmärtäminen ei auta suuria organisaatioita ja yrityksiä, se
 varmastikin auttaa niiden kilpailijoita. Suurten yritysten heikoin kohta on se,
 että ne eivät anna yksittäisten ohjelmoijien tehdä erinomaista työtä. Jos
 sinulla on startup-yritys, tässä on kilpailijoidesi heikko kohta. Ryhdy
-ratkaisemaan ongelmia, joiden ratkaiseminen on mahdollista vain yhden mielen
-sisällä.
+ratkaisemaan ongelmia, joiden ratkaiseminen on mahdollista vain yhden suuren
+mielen sisällä.
 
 **Kiitokset** henkilöille Sam Altman, David Greenspan, Aaron Iba, Jessica
 Livingston, Robert Morris, Peter Norvig, Lisa Randall, Emmett Shear, Sergei
