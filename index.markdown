@@ -29,6 +29,16 @@ Coding, yoga, literature, politics, economics, natural languages, Star Trek. Ner
 
 and [more](/articles.html).
 
+## Translations into Finnish
+
+{% for page in site.pages %}
+  {% if page.layout == 'translation' %}
+
+  * [{{page.title}}]({{page.url}})
+
+  {% endif %}
+{% endfor %}
+
 ## Contact
 
 lauri.lehmijoki@iki.fi
