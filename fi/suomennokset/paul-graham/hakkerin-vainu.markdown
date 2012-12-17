@@ -104,7 +104,7 @@ pidä siitä miltä Java vaikuttaa.
    käyttöön. Ne haluavat ohjelmointikielten sisältävän rekkojen
    nopeusrajoittimien kaltaisia ominaisuuksia, jotka estävät hölmöjä tekemästä
    suurta vahinkoa. Hakkerit puolestaan eivät pidä ohjelmointikielistä, jotka
-   suhtautuvat heihin alentavasti. Hakkerit haluavat valtaa. Historiallisesti,
+   suhtautuvat heihin alentavasti. Hakkerit haluavat valtaa. Historiallisesti
    suurille organisaatioille suunnitellut ohjelmointikielet kuten PL/I ja Ada
    ovat hävinneet, kun taas hakkerikielet kuten C ja Perl ovat voittaneet. Syy:
    tämän päivän teinihakkeri on huomisen teknologiajohtaja.
@@ -125,7 +125,7 @@ pidä siitä miltä Java vaikuttaa.
     Sunin markkinointiviestit vihjaavat, että vakavasti otettavat
     teollisuussovellukset tarvitsevat Sunin palvelimia. Jos tämä olisi totta,
     olisi Yahoo ensimmäisenä jonossa ostamassa Sun-palvelimia; kuitenkin
-    työskennellessäni Yahoolla, huomasin, että kaikki heidän palvelimensa olivat
+    työskennellessäni Yahoolla huomasin, että kaikki heidän palvelimensa olivat
     Intel-koneita, joita operoitiin FreeBSD:llä. Tämä lupaa huonoa Sunin
     tulevaisuudelle. Jos Sun joutuu vaikeuksiin, saattaa siitä seurata ongelmia
     myös Javalle.
@@ -139,9 +139,9 @@ pidä siitä miltä Java vaikuttaa.
     väärin. Viimeksi kun puolustusministeriö todella piti jostakin
     ohjelmointikielestä oli kielen nimi Ada.
 
-Pidäthän mielessä että tämä essee ei ole Java-kritiikkiä vaan kritiikkiä Javaa
+Pidäthän mielessä että tämä essee ei ole Java-kritiikkiä vaan kritiikkiä Javan
 kantta kohtaan. En osaa Javaa tarpeeksi hyvin voidakseni sanoa että pidän tai en
-pidä siitä. Tämä essee on pikemminkin kuvaus siitä, miksi en ole innokas
+pidä siitä. Tämä essee on pikemminkin kuvaus seikoista, miksi en ole innokas
 oppimaan sitä.
 
 Ohjelmointikielen sivuuttaminen kehnona saattaa vaikuttaa ylimieliseltä, jos
