@@ -15,7 +15,7 @@ Ajan myötä hakkereille syntyy kyky aistia hyviä (ja huonoja) teknologioita.
 Ajattelin, että olisi kiinnostavaa yrittää kirjoittaa siitä, miksi Java tuntuu
 mielestäni huonolta teknologialta.
 
-Jotkut tämän esseen lukeneet ajattelevat, että tämä on kiinnostava yritys
+Jotkut tämän esseen lukeneet ajattelevat, että tämä on mielenkiintoinen yritys
 kirjoittaa jostakin, mistä ei ole kirjoitettu aikaisemmin. Toiset sanovat että
 joudun hankaluuksiin yrittäessäni kirjoittaa asiasta, jota en ymmärrä. Haluan
 vielä selkeästi sanoa, että en tässä esseessä kirjoita Javasta
