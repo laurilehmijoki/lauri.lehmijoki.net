@@ -2,7 +2,6 @@
 layout: article-fi
 title: Versiolla on väliä
 ---
-#### Ohjelmistoversiot viestinnän muotona, ja semanttisesta versioinnista
 
 Kehittäjienvälinen viestintä on ohjelmistokehityksen tärkeimpiä näkökulmia.
 Viestintää tapahtuu monella tasolla; käytäväkeskustelut ja tiimin sisäiset
@@ -11,26 +10,6 @@ Viestintämuoto, johon kehittäjät usein kiinnittävät liian vähän huomiota,
 koodin välityksellä keskusteleminen ja merkitysten välittäminen. Tässä
 artikkelissa esittelen erään menetelmän, jonka uskon olevan hyödyksi monille
 ohjelmistokehitysprojekteille.
-
-## Markkinalähtöinen versiointi voi olla ongelmallista
-
-Julkaistavat ohjelmistot sisältävät markkinointinimen lisäksi myös teknisen
-versionumeron. Esimerkiksi Applen käyttöjärjestemän eri versioiden
-markkinointinimet ovat villieläinten nimiä ja tekniset versiot numerosarjoja,
-onhan Mountain Lion sympaattisempi ja tunteita herättävämpi kuin luku 10.8.
-
-Ohjelmistojulkaisujen tekniselle versioinnille on olemassa useita tapoja.
-Versiointi voi olla markkinointilähtöistä, jolloin julkaisija haluaa suurella
-versionumerolla kertoa esimerkiksi edistyksen nopeudesta ja luoda uutuuden
-humua. Firefox-selaimen tekninen versiointi vaihtui markkinointisyistä
-samankaltaiseksi kuin Google Chrome -selaimen versiointi; Firefoxin kehittäjät
-halusivat selaimensa vaikuttavan yhtä edistyneeltä kuin Chrome, jolloin
-julkaisusta v.5 eteenpäin he ottivat käyttöön periaatteen, jossa pääversiota
-korotetaan uusien ominaisuuksien myötä.
-
-Markkinalähtöinen versiointi on keino saavuttaa lisää huomiota
-ohjelmistotuotteelle, mutta se sisältää kuitenkin uhrauksen, sillä se asettaa
-arvottaa mielikuvien rakentamisen tietopainotteista viestintää arvokkaammaksi.
 
 ## Semanttinen versiointi – tietopainotteinen viestintä hyveenä
 
@@ -88,13 +67,6 @@ uusi versio sisältää korjauksen edellisessä versiossa olleeseen virheeseen,
 mutta että se ei sisällä uusia ominaisuuksia.
 
 ## Lopuksi
-
-Ohjelmiston kehittäjänä voit käyttää sekä markkinalähtöistä versiointia että
-semanttista versiointia rinnakkain. Mikäli teet kuluttajille suunnattua
-tuotetta, on markkinointiversio todennäköisesti tärkeämpi kuin tekninen versio.
-Tästäkin huolimatta tekninen versiointisi voi hyvin noudattaa semanttisen
-versioinnin sopimusta, jolloin palvelet paremmin sidosryhmiäsi, jotka ovat
-tekemisissä ohjelmistosi yksityiskohtien kanssa.
 
 Ohjelmistokehitys on tärkeältä osin viestintää ja maailman ymmärrettävämmäksi
 tekemistä. Valitse selkeys – valitse semanttinen versiointi!
