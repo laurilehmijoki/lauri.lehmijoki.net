@@ -27,7 +27,7 @@ GEM
     jekyll-less (0.0.4)
       jekyll (>= 0.10.0)
       less (>= 2.0.5)
-    jekyll-s3 (2.1.0)
+    jekyll-s3 (2.1.1)
       aws-sdk (~> 1.8.0)
       erubis (~> 2.7.0)
       filey-diff (~> 0.0.2)
@@ -64,6 +64,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-less
-  jekyll-s3 (~> 2.1.0)
+  jekyll-s3 (~> 2.1.1)
   libv8 (~> 3.11.8)
-  therubyracer
+  therubyracer (~> 0.11.0)
