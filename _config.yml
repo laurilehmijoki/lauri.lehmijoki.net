@@ -8,3 +8,5 @@ exclude:
 - Rakefile
 permalink: none
 pygments: true
+gzip: true
+max-age: 120
