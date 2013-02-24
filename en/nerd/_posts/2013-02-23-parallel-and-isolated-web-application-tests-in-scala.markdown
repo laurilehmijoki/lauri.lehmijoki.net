@@ -72,12 +72,12 @@ Looking good. Nothing special here. Next, let's see how we test our application.
 ## Testing the application
 
 Writing integration tests on an application with complex configuration options
-is not trivial. Bootstrapping the application with all the possible
-combinations of configurations can result in obscure and difficult-to-understand
-tests that are a burden to maintain. Fortunately **Scala specs2** allows us to write
-highly readable tests.
+is not trivial. Bootstrapping the application with all the possible combinations
+of configurations can result in difficult-to-understand tests that are a burden
+to maintain. Fortunately **Scala specs2** allows us to write highly readable
+tests.
 
-In addition to readability, **specs2** will elegantly take advantage our
+In addition to readability, **specs2** will elegantly take advantage of our
 multicore computers by running the tests in parallel. Parallel execution of
 tests becomes important as the size of the software grows.
 
