@@ -1,0 +1,78 @@
+---
+layout: article-en
+title: CLI tips
+---
+
+## Bash history
+
+When opening a new terminal, you probably want to see the history from all other
+open windows. Add these into your `.bashrc`:
+
+    shopt -s histappend # Append into history, don't rewrite when exiting terminal
+    PROMPT_COMMAND='history -a' # Flush history on new prompt
+
+### Event Designators, Word Designators and Modifiers
+
+[Bash Event
+Designators](http://www.gnu.org/software/bash/manual/html_node/Event-Designators.html#Event-Designators)
+refer to an event in Bash command history.
+
+For example, you can repeat the previous command:
+
+    !!
+
+You might often need this:
+
+    sudo !!
+
+Use [Word
+Designators](http://www.gnu.org/software/bash/manual/html_node/Word-Designators.html#Word-Designators)
+to pick a word from a Bash history event. Here is an example of how to use the
+last argument of the previous command:
+
+    echo hello world
+    echo greetins, !$ # will print "greetings, world"
+
+[Modifiers](http://www.gnu.org/software/bash/manual/html_node/Modifiers.html#Modifiers)
+let you alter the word you appointed with a Word Designator. For example, you
+can substitute (`s`) a word with another:
+
+    echo hello world
+    echo hello !$:s/world/galaxy # will print "hello galaxy"
+
+It's worthwhile to read through the original Bash documentation (see the links
+above).
+
+## Vi on the command-line prompt
+
+If you know `vi` or `vim` better than `emacs`, you most likely find this setting
+superb:
+
+    set editing-mode vi # Add into ~/.inputrc
+
+In the `vi` editing mode, you can enter the normal mode by pressing `Esc`.
+Result: innumerable keystrokes saved.
+
+Another useful feature in the `vi` editing mode is that pressing `v` in the
+normal mode will open in `vim` the command you have typed so far.
+
+## Bash combinations
+
+Turn a Bash expression into a function to which you can pass multiple
+parameters:
+
+    scp {.vimrc,my-file.txt,.inputrc} super.server.com:~/
+
+The above command will transfer the files *.vimrc*, *my-file.txt* and *.inputrc*
+to a remote server.
+
+## Aliases
+
+Show disk usage of current directory and its subdirectories:
+
+    alias du-sum="du -skc * | sort -n" # OS X
+    alias du-sum="du --max-depth=1 . | sort -n" # Linux
+
+Save countless keystrokes:
+
+    alias g=git
