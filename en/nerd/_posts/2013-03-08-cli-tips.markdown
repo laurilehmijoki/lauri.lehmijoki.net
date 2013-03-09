@@ -6,7 +6,7 @@ title: CLI tips
 ## Bash history
 
 When opening a new terminal, you probably want to see the history from all other
-open windows. Add these into your `.bashrc`:
+open windows. Add these into your `~/.bashrc`:
 
     shopt -s histappend # Append into history, don't rewrite when exiting terminal
     PROMPT_COMMAND='history -a' # Flush history on new prompt
@@ -31,7 +31,7 @@ to pick a word from a Bash history event. Here is an example of how to use the
 last argument of the previous command:
 
     echo hello world
-    echo greetins, !$ # will print "greetings, world"
+    echo greetings, !$ # will print "greetings, world"
 
 [Modifiers](http://www.gnu.org/software/bash/manual/html_node/Modifiers.html#Modifiers)
 let you alter the word you appointed with a Word Designator. For example, you
