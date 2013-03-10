@@ -1,6 +1,6 @@
 ---
 layout: article-en
-title: CLI tips
+title: A selection of CLI tips
 ---
 
 ## Bash history
