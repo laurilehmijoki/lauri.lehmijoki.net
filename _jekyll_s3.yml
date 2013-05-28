@@ -1,6 +1,8 @@
 s3_id: <%= ENV['lauri_lehmijoki_net_aws_key'] %>
 s3_secret: <%= ENV['lauri_lehmijoki_net_aws_secret'] %>
 s3_bucket: lauri.lehmijoki.net
+redirects:
+  redirect-test: /
 cloudfront_distribution_id: <%= ENV['lauri_lehmijoki_net_cloudfront_distribution_id'] %>
 cloudfront_distribution_config:
   default_cache_behavior:
