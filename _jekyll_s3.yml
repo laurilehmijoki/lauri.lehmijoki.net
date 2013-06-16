@@ -13,3 +13,10 @@ cloudfront_distribution_config:
       CNAME: lauri.lehmijoki.net
 max_age: 120
 gzip: true
+routing_rules:
+  - condition:
+      key_prefix_equals: code/repositories/git/
+    redirect:
+      host_name: git.johnny.com
+      replace_key_prefix_with: ""
+      http_redirect_code: 301
