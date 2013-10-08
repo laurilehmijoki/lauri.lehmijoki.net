@@ -14,10 +14,6 @@ Coding at [Reaktor](http://www.reaktor.fi/en).
 [HavaRunner](https://github.com/havarunner/havarunner) –
   A JUnit runner with built-in concurrency support, scenarios and handy suites
 
-## Interests
-
-Coding, yoga, literature, politics, economics, natural languages, Star Trek. Nerding in general.
-
 ## Articles
 {% for post in site.posts limit:4%}
 
