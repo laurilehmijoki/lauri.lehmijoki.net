@@ -10,12 +10,6 @@ Coding at [Reaktor](http://www.reaktor.fi/en).
 
 * [GitHub](https://github.com/laurilehmijoki)
 
-* [LinkedIn](http://fi.linkedin.com/in/laurilehmijoki)
-
-* [Facebook](https://www.facebook.com/lauri.lehmijoki)
-
-* [Twitter](https://twitter.com/#!/laurilehmijoki)
-
 ## Interests
 
 Coding, yoga, literature, politics, economics, natural languages, Star Trek. Nerding in general.
@@ -42,3 +36,9 @@ and [more](/articles.html).
 ## Contact
 
 lauri.lehmijoki@iki.fi
+
+[LinkedIn](http://fi.linkedin.com/in/laurilehmijoki)
+
+[Twitter](https://twitter.com/#!/laurilehmijoki)
+
+[Facebook](https://www.facebook.com/lauri.lehmijoki)
