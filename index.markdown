@@ -6,9 +6,13 @@ title: lauri lehmijoki
 
 Coding at [Reaktor](http://www.reaktor.fi/en).
 
-## Social
+### Open source
 
-* [GitHub](https://github.com/laurilehmijoki)
+[s3_website](https://github.com/laurilehmijoki/s3_website) –
+  A command-line tool for deploying static websites into AWS S3
+
+[HavaRunner](https://github.com/havarunner/havarunner) –
+  A JUnit runner with built-in concurrency support, scenarios and handy suites
 
 ## Interests
 
