@@ -21,6 +21,10 @@ routing_rules:
       host_name: git.johnny.com
       replace_key_prefix_with: ""
       http_redirect_code: 301
+exclude_from_upload:
+  - test_regex
+ignore_on_server:
+  - test_value_for_testing_s3_website_gem
 
 # Below are examples of all the available configurations.
 # See README for more detailed info on each of them.
