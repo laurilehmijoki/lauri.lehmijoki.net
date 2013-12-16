@@ -13,7 +13,7 @@ I'm a programmer with a background in social sciences. I currently work at
   A command-line tool for deploying static websites into AWS S3
 
 [HavaRunner](https://github.com/havarunner/havarunner) –
-  A JUnit runner with built-in concurrency support, scenarios and handy suites
+  A test framework with built-in concurrency support, scenarios and handy suites
 
 ## Articles
 {% for post in site.posts limit:4%}
