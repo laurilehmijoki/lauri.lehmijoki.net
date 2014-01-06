@@ -1,0 +1,110 @@
+---
+layout: article-fi
+title: Lukuvuosi 2013
+---
+
+Luin vuonna 2013 monia kiinnostavia kirjoja. Alla lista parhaista.
+
+### Marc Levinson: The Box
+
+*The Box* on kontin taloushistoriaa. Levinson dokumentoi tämän alumiinilaatikon
+kehitysvaiheita 1950-luvulta tälle vuosituhannelle. Tarina on kaikkea muuta kuin
+tylsä: kontti mullisti logistiikan, teki tarpeettomaksi miljoonien ihmisten
+työn ja vähensi etäisyyden merkitystä poikkeuksellisen voimakkaasti.
+
+*The Box* on myös kertomus järjestelmäajattelun voimasta: konttilogistiikan isä
+Malcom McLean muutti maailmaa, koska hän suhtautui laivarahtitoimintaan vain
+yhtenä osasena kokonaisuutta, jossa tavara siirtyy tuottajalta kuluttajalle.
+Tämän suurempaa kokonaisuutta korostavan idean avulla hän pystyi voittamaan
+varhaiset kilpailijansa, jotka kokivat vain kuljettavansa tavaroita satamasta
+toiseen.
+
+### Antony Beevor: The Second World War
+
+Populaarin sotahistorian taituri kuvaa toista maailmansotaa sotatapahtumien ja
+johtajien kautta, mutta sisällyttää sujuvaan tarinaan myös rivisotilaiden
+kokemuksia.
+
+Beevorin ansio on siinä, että hän tekee sotahistoriasta kiinnostavaa
+ja helposti luettavaa. Sotahistorian olemassaolon tärkein tehtävä on muistuttaa
+niistä ilmiöistä, jotka johtivat sotaan. Beevor onnistuu tässä tehtävässä, koska
+hänen tekstinsä lähenee Dan Brownin kirjojen koukuttavuutta.
+
+### Kari Hotakainen: Luonnon laki
+
+Hotakainen kirjoittaa vakavan onnettomuuden kokemuksesta, sairaanhoitajan
+väsymyksestä ja hyvinvointivaltion ruohonjuuritasosta.
+
+Hotakaisen lauseet hoitajan väsymyksestä saivat minut kokemaan loppuun asti
+ajetun ihmisen tunteita. Lainaten Milan Kundera ajatusta Cervantesin hyljeksitty
+perintö -esseessä: romaanin olemassaolon syy on elämismaailmamme jatkuvassa
+valaisemisessa.
+
+### Peter Englund: Tystnadens historia och andra essäer
+
+Englundin essee hiljaisuuden historiasta on havahduttava kuvaus teknisesti
+edistyneen ihmiskunnan luomasta jäljestä. Tekniikan voittokulku on pidentänyt
+elinikäämme ja tuonut liikkumiseemme ja viestinvaihtoomme nopeutta, mutta sillä
+on ollut kenenkään tarkoittamattomia sivuvaikutuksia. Hiljaisuus on näistä yksi:
+kaupunkilaisina emme enää voi kokea äänen poissaoloa.
+
+Kirja sisältää myös esseen Ray Krocista, joka rakensi MacDonaldsista
+maailmanlaajuisen ruokaketjun.
+
+### Kuusela ja Ylönen: Konsulttidemokratia
+
+Konsulttidemokratia-kirja perustuu haastatteluihin, joiden pohjalta kirjoittajat
+kuvaavat julkisen vallan siirtymistä virkavastuussa olevilta virkamiehiltä
+yksityisten yritysten työntekijöille.
+
+Konsulttidemokratia kertoo myös tehokkuuden ja edustuksellisuuden vaikeasta
+yhteiselosta. Yksityinen sektori tuottaa kustannustehokkaita ratkaisuja maailman
+ongelmiin, mutta niiden soveltaminen julkishallintoon on usein ongelmallista.
+
+### Moises Naim: End of Power
+
+*End of Power* pyrkii selittämään, miksi poliitikkojen kyky saada aikaan asioita
+on heikentynyt; miksi alansa johtavat yritykset pysyvät kärkisijoilla entistä
+lyhyempiä aikoja; miksi uskonnolliset liikkeet menettävät jäseniään; miksi
+kehittyneet armeijat eivät enää pysty voittamaan heikosti varustettuja sissejä.
+
+*End of Power* on analyysi vallasta. Raa'alla voimalla ja traditioon perustuvalla
+auktoriteetilla hallitsemisesta on tullut viimeisten vuosikymmenten aikana
+huomattavasti vaikeampaa, mutta vallan järjestelmät eivät ole vielä sopeutuneet
+uuteen aikaan. Mitkä asiat määrittävät tätä uutta aikaa? Moises Naim vastaa,
+että ihmiset vaativat enemmän ja parempaa. Lisäksi heidän kykynsä liikkua ja saada
+tietoa laajoilta alueilta on ennennäkemättömän hyvä. Lopuksi, heidän asenteensa
+valtaa ja auktoriteetteja kohtaan on muuttunut paljon kriittisemmäksi.
+
+### Rampuri: Autobiography of a Sadhu
+
+Rampuri, syntymänimeltään William Gans, kertoo omasta tiestään intialaiseksi
+askeetikoksi. Rampurin tarina on kiehtova kuvaus Intian uskonnollisuudesta, sen
+omituisuuksista. Rampurin kirja kertoo myös miten vierailla kulttuureilla voi
+olla yllättävää sanottavaa meille.
+
+### Georg Feuerstein: The Deeper Dimensions of Yoga: Theory and Practice
+
+Tänä vuonna kuollut Georg Feuerstein teki merkittävää käännös- ja tulkintatyötä.
+Feuerstein oli laaja-alaisesti oppinut indologi, joka tunsi myös länsimaisia
+uskonnollisia perinteitä. Hänen *Bhagavad Gita* -käännöksensä on erinomainen.
+
+*The Deeper Dimensions of Yoga* on esseekokoelma, jossa Feuerstein käsittelee
+joogaa muinaisten tekstien valossa ja tulkitsee niitä. Tässä muutaman esseen
+otsikot: *What is Yoga?*; *Yoga: What For?*; *Is Yoga a Religion?*; *Yoga as Art and
+Science*.
+
+### The Architecture of Open Source Applications I & II
+
+Tämän julkaisusarjan tekijät ansaitsevat suuren kiitoksen: he ovat pyytäneet
+avoimen lähdekoodin ohjelmistojen tekijöitä kirjoittamaan artikkelin omasta
+projektistaan.
+
+Mukana on todellisia helmiä: Glasgow Haskell Compilerin suunnittelijat kertovat
+nyt 20 vuotta vanhan kääntäjän vaiheista. Riak-tietokannan kehittäjät kertovat
+hajautettun järjestelmän toteuttamisesta. Selenium WebDriverin koodaaja
+puolestaan kertoo testausohjelmistosta, jonka merkittävänä saavutuksena on kyky
+tukea lukuisia käyttöjärjestelmiä ja selainversioita.
+
+Tämän erinomaisen sarjan kotisivut ovat
+[täällä.](http://www.aosabook.org/en/index.html)
