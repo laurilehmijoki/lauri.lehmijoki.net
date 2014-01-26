@@ -4,7 +4,7 @@ title: lauri lehmijoki
 ---
 ## Work
 
-I'm a programmer with a background in social sciences. I currently work at
+I'm a programmer with a background in social sciences. I work at
 [Reaktor](http://www.reaktor.fi/en).
 
 ### Open source
