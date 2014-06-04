@@ -2,7 +2,22 @@ s3_id: <%= ENV['lauri_lehmijoki_net_aws_key'] %>
 s3_secret: <%= ENV['lauri_lehmijoki_net_aws_secret'] %>
 s3_bucket: lauri.lehmijoki.net
 redirects:
-  redirect-test: /
+  fi/kirjat/lukuvuosi-2013.html: /lukuvuosi-2013/
+  fi/nerd/versiolla-on-valia.html: /versiolla-on-valia/
+  fi/suomennokset/paul-graham/hakkerin-vainu.html: /hakkerin-vainu/
+  fi/suomennokset/paul-graham/kyvysta-taivuttaa-koodia-mielensa-mukaan.html: /kyvysta-taivuttaa-koodia-mielensa-mukaan/
+  en/language/a-selection-of-english-words.html: /a-selection-of-english-words/
+  en/nerd/getting-vim-right-on-mac.html: /getting-vim-right-on-mac/
+  en/nerd/place-for-everything-everything-in-its-place.html: /place-for-everything-everything-in-its-place/
+  en/nerd/git-find-added.html: /git-find-added/
+  en/nerd/jekyll-and-right-tools-for-right-job.html: /jekyll-and-right-tools-for-right-job/
+  en/nerd/quickly-creating-bash-scripts.html: /jekyll-and-right-tools-for-right-job/
+  en/nerd/on-importance-of-having-dotfiles-in-github.html: /on-importance-of-having-dotfiles-in-github/
+  en/nerd/parallel-and-isolated-web-application-tests-in-scala.html: /parallel-and-isolated-web-application-tests-in-scala/
+  en/nerd/cli-tips.html: /cli-tips/
+  en/nerd/write-concurrent-java-tests-with-havarunner.html: /write-concurrent-java-tests-with-havarunner/
+  articles.html: /articles/
+
 cloudfront_distribution_id: <%= ENV['lauri_lehmijoki_net_cloudfront_distribution_id'] %>
 cloudfront_distribution_config:
   default_cache_behavior:

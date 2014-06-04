@@ -4,6 +4,7 @@ title: Kyvystä taivuttaa koodia mielensä mukaan
 translation-source-url: http://paulgraham.com/head.html
 translation-source-title: Holding a Program in One's Head
 translation-original-author: Paul Graham
+permalink: /kyvysta-taivuttaa-koodia-mielensa-mukaan/
 ---
 ### Elokuu 2007
 

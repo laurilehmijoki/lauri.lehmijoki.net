@@ -21,7 +21,7 @@ I'm a programmer. I work at [Reaktor](http://www.reaktor.fi/en).
 
 {% endfor %}
 
-and [more](/articles.html).
+and [more](/articles/).
 
 ## Translations into Finnish
 

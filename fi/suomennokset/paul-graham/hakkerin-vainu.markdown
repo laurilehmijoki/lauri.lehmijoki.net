@@ -4,6 +4,7 @@ title: Hakkerin vainu
 translation-source-url: http://www.paulgraham.com/javacover.html
 translation-source-title: Java's Cover
 translation-original-author: Paul Graham
+permalink: /hakkerin-vainu/
 ---
 ### Huhtikuu 2001
 

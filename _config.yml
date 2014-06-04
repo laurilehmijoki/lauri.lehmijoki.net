@@ -6,7 +6,5 @@ exclude:
 - Gemfile.lock
 - incubation
 - Rakefile
-permalink: none
+permalink: /:title/
 pygments: true
-gzip: true
-max-age: 120
