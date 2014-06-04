@@ -35,4 +35,4 @@ and [more](/articles/).
 
 ## Contact
 
-lauri.lehmijoki@iki.fi | [LinkedIn](http://fi.linkedin.com/in/laurilehmijoki) | [Twitter](https://twitter.com/#!/laurilehmijoki)
+lauri.lehmijoki@iki.fi | [LinkedIn](http://fi.linkedin.com/in/laurilehmijoki) | [Twitter](https://twitter.com/laurilehmijoki)
