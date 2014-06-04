@@ -4,7 +4,7 @@ title: lauri lehmijoki
 ---
 ## Work
 
-I'm a programmer. I work at [Reaktor](http://www.reaktor.fi/en).
+I'm a programmer. I work at [Reaktor](http://reaktor.fi).
 
 ### Open source
 
