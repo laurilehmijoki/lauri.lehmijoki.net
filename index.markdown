@@ -14,6 +14,9 @@ I'm a programmer. I work at [Reaktor](http://reaktor.fi).
 [HavaRunner](https://github.com/havarunner/havarunner) –
   A test framework with built-in concurrency support, scenarios and handy suites
 
+[Unistack](http://laurilehmijoki.github.io/unistack/) –
+  A starter kit for building JavaScript apps with Node.js, React and Bacon
+
 ## Articles
 {% for post in site.posts limit:4%}
 
