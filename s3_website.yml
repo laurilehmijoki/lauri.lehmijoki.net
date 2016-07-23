@@ -17,8 +17,11 @@ redirects:
   en/nerd/cli-tips.html: /cli-tips/
   en/nerd/write-concurrent-java-tests-with-havarunner.html: /write-concurrent-java-tests-with-havarunner/
   articles.html: /articles/
-
+  test.html: /target/
+treat_zero_length_objects_as_redirects: true
 cloudfront_distribution_id: <%= ENV['lauri_lehmijoki_net_cloudfront_distribution_id'] %>
+cloudfront_wildcard_invalidation: true
+#cloudfront_invalidate_root: true
 cloudfront_distribution_config:
   default_cache_behavior:
     min_TTL: <%= 60 * 60 * 24 %>
@@ -26,7 +29,10 @@ cloudfront_distribution_config:
     quantity: 1
     items:
       CNAME: lauri.lehmijoki.net
-max_age: 120
+#s3_key_prefix: foo
+cache_control:
+  "*.js": public, max-age=3600
+  "*": public, max-age=120
 gzip: true
 concurrency_level: 3
 routing_rules:
@@ -36,8 +42,7 @@ routing_rules:
       host_name: git.johnny.com
       replace_key_prefix_with: ""
       http_redirect_code: 301
-exclude_from_upload:
-  - test_regex
+exclude_from_upload: .txt
 ignore_on_server:
   - test_value_for_testing_s3_website_gem
 
