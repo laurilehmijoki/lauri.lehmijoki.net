@@ -6,7 +6,7 @@ title: lauri lehmijoki
 
 I'm a software developer and consultant. I work at [Reaktor](http://reaktor.fi).
 
-### Open source
+### Projects
 
 [s3_website](https://github.com/laurilehmijoki/s3_website) –
   A command-line tool for deploying static websites into AWS S3
