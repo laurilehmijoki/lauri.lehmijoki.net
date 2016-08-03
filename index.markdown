@@ -17,6 +17,9 @@ I'm a programmer. I work at [Reaktor](http://reaktor.fi).
 [Unistack](http://laurilehmijoki.github.io/unistack/) –
   A starter kit for building JavaScript apps with Node.js, React and Bacon
 
+[WikiGuido](https://itunes.apple.com/us/app/wikiguido/id1136678529?mt=8) –
+  An iOS application that shows you the Wikipedia articles on nearby locations.
+
 ## Translations into Finnish
 
 {% for page in site.pages %}
