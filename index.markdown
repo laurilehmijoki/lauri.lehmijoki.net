@@ -17,15 +17,6 @@ I'm a programmer. I work at [Reaktor](http://reaktor.fi).
 [Unistack](http://laurilehmijoki.github.io/unistack/) –
   A starter kit for building JavaScript apps with Node.js, React and Bacon
 
-## Articles
-{% for post in site.posts limit:4%}
-
-* {{ post | create_article_link }}
-
-{% endfor %}
-
-and [more](/articles/).
-
 ## Translations into Finnish
 
 {% for page in site.pages %}
